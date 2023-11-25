@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 800px){
+    header{
+    padding: 14px 5%;
+    }
+    .tb1{
+        padding: 14px 5%;
+    }
+    .tb2{
+        padding: 14px 5%;
+    }
+    .tb3{
+        padding: 14px 5%;
+    }
+    .tb4{
+        padding: 14px 5%;
+    }
+    .tb5{
+        padding: 14px 5%;
+    }
+    .tb6{
+        padding: 14px 5%;
+    }
+    .tb7{
+        padding: 14px 5%;
+    }
+    .tb9{
+        padding: 14px 5%;
+    }
+    .tb9{
+        padding: 14px 5%;
+    }
+}
